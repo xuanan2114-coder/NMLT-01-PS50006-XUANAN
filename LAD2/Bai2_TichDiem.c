@@ -13,8 +13,6 @@ int main (){
     scanf("%d", &hoa);
 
     dtb = 1.0* (toan * 3 + ly * 2 + hoa ) / 6;
-
-    printf("\n======KET QUA======\n");
     printf(" Toan : %d\n" , toan);
     printf(" Ly   : %d\n" , ly);
     printf(" Hoa  : %d\n" , hoa);
